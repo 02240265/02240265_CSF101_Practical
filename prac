@@ -1,4 +1,4 @@
-studentName = "Dorji"
-studentNumber = "02240265"
+studentName = "DORJEEE"
+studentNumber = "022402556666"
 
 print("My name is " + studentName + " and my student number is " + studentNumber)
